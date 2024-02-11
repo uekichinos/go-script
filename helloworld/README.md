@@ -1,3 +1,3 @@
-# helloworld
+# Hello World
 
-My first Go scriot
+My first Go script

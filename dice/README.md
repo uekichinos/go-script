@@ -8,11 +8,10 @@ Typically refers to small, often cube-shaped objects marked with different numbe
 
 Each face of a standard six-sided die is typically marked with a different number from 1 to 6. When rolled, the result is determined by the number that appears on the face that lands facing up. The outcome of rolling a die is random, assuming it is fair and unbiased.
 
-
 # Features
 
-- [x]  Allow to update the number. Default 6.
-- [ ]  Allow number of roll per run. Default 1.
+- [x]  Allow to change the number. Default 6.
+- [ ]  Allow to generate number of roll per run. Default 1.
 
 # License
 
